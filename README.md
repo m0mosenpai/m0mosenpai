@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm an Electronics student interested in Software Development, Design and Information Security. <br>
+I'm an Electronics student interested in Software Development, Design and Information Security. <br>
+
+- 🔭 Teaching/ Mentoring Intern @[Tekie](https://www.tekie.in/) - teaching kids programming and making it accessible to all.
 - 🌱 I'm currently exploring Open Source, learning Vim and working on improving my Algorithmic and Design Patterns knowledge.
 - 👯 I'm open to collaborate on projects - especially automation and dealing with hardware-software both.
 
