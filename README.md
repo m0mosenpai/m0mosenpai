@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an Electronics student interested in Software Development, Design and Information Security. I hope to one day be able to write code I'm proud of. <br>
+I'm currently exploring Open Source and working on improving my Algorithmic and Design Patterns knowledge.
+
+I also game in my free time. Find me on Discord @m0mosenpai#2268. <br>
+
 <!--
 **m0mosenpai/m0mosenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
