@@ -5,7 +5,7 @@ I'm an Electronics student interested in Software Development, Design, Open Sour
 - 📫 MLH Fellow Spring'21 - Open Source Track
 - 🔭 Teaching/ Mentoring Intern @[Tekie](https://www.tekie.in/) - exposing young children to the world of programming.
 - 🌱 I'm currently exploring Open Source, learning Vim and working on improving my Algorithmic and Design Patterns knowledge.
-- 👯 I'm open to collaborate on projects, especially networks, automation and security related.
+- 👯 I'm open to collaborate on projects, especially the ones related to networks, automation and security.
 
 I also game in my free time. Find me on Discord @m0mosenpai#2268. <br>
 
