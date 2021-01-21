@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey!👋
 
 I'm an Electronics student interested in Software Development, Design, Open Source and Information Security. <br>
 
