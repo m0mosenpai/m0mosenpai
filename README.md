@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
-I'm an Electronics student interested in Software Development, Design and Information Security. <br>
+I'm an Electronics student interested in Software Development, Design, Open Source and Information Security. <br>
 
 - 📫 MLH Fellow Spring'21 - Open Source Track
 - 🔭 Teaching/ Mentoring Intern @[Tekie](https://www.tekie.in/) - exposing young children to the world of programming.
