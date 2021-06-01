@@ -2,6 +2,7 @@
 
 I'm an Electronics student interested in Software Development, Design, Open Source and Information Security. <br>
 
+- 📫 GSoC '21 @IntelOwl, The Honeynet Project
 - 📫 MLH Fellow Spring'21 - Open Source Track
 - 🔭 Teaching/ Mentoring Intern @[Tekie](https://www.tekie.in/) - exposing young children to the world of programming.
 - 🌱 I'm currently exploring Open Source, learning Vim and working on improving my Algorithmic and Design Patterns knowledge.
